@@ -1,6 +1,27 @@
-# 💫 About Me:
-🔭 I’m currently working on: A Java-based platformer game.<br>👯 I’m looking to collaborate on: Exciting AI/ML projects, game development, or unique coding challenges.<br>🤝 I’m looking for help with: Enhancing my skills in quantum computing and exploring new AI techniques.<br>🌱 I’m currently learning: AI, quantum computing, and Computer Networks.<br>💬 Ask me about: Python, game development, AI/ML, and coding contests.<br>⚡ Fun fact: I love exploring under-touched topics like peer-to-peer applications for hackathons!
+## 👋 About Me
 
+Hey there! I'm **Jayesh RL**, a passionate developer and AI enthusiast who loves building things that solve real problems. I'm particularly interested in **AI/ML systems**, **agent-based architectures**, and the occasional **game dev side quest**.
+
+I enjoy working on projects that challenge convention — whether it's crafting intelligent systems for public safety, creating decentralized tools, or designing creative data-driven applications.
+
+I'm always eager to learn new concepts, especially around **AI, distributed systems, agentic AI, and emerging tech like quantum computing**. Hackathons, ideathons, and collaborative projects are where I thrive.
+
+---
+
+## 🔍 What I Enjoy
+
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Reinforcement Learning & Multi-Agent Systems  
+- 🎮 Game Development (for fun and learning!)  
+- 📊 Data Analysis & Predictive Modelling  
+- 🖧 Peer-to-Peer & Edge AI Applications  
+- 📚 Exploring niche, futuristic ideas and building prototypes
+
+---
+
+## 📬 Let’s Connect!
+
+If you're working on something exciting or want to jam on unconventional ideas, feel free to reach out! I'm always up for a good tech conversation or a collaborative build.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JayeshRL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jayeshahaha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JayeshRL) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jayesh) 
