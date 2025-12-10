@@ -18,7 +18,7 @@ I don't just write code—I engineer **intelligent, scalable systems** that solv
 
 Currently crafting AI agents, automating DevSecOps workflows, and exploring the intersection of **machine learning, cybersecurity, and distributed systems**.
 
-🎓 **CS Student** | 🧠 **9+ CGPA** | 🏆 **Hackathon Team Lead** | 🎯 **FAANG Aspirant**
+🎓 **CS Student** | 🎯 **FAANG Aspirant**
 
 ---
 
