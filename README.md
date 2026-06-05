@@ -143,6 +143,13 @@ Analyzes bank statements, invoices & UPI transaction data to detect fraud patter
 
 ---
 
+## Languages
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aspect022&theme=radical" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -181,7 +188,9 @@ Analyzes bank statements, invoices & UPI transaction data to detect fraud patter
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCPAzjg)](https://www.git-ranker.com/en/users/Aspect022)
 
 </div>
+
 ---
+
 <div align="center">
 
 **Building from Bengaluru. Shipping for the world.**
