@@ -79,7 +79,7 @@ RAG pipeline (PyMuPDF + ChromaDB + semantic retrieval) that converts research pa
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 SmartEVP+
+### 🚨 [SmartEVP+](https://github.com/Aspect022/Smart-EVP)
 **Distributed Emergency Response System**
 
 Fault-tolerant distributed system for real-time emergency vehicle routing and traffic signal preemption. Hybrid LoRa + 4G architecture for resilient telemetry. Reduced simulated response delays by 3+ minutes.
