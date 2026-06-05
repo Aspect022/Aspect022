@@ -30,6 +30,14 @@
 
 ---
 
+## Profile Details
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aspect022&theme=github_dark" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -167,7 +175,13 @@ Analyzes bank statements, invoices & UPI transaction data to detect fraud patter
 </div>
 
 ---
+## 📈 Git Ranker
+<div align="center">
 
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCPAzjg)](https://www.git-ranker.com/en/users/Aspect022)
+
+</div>
+---
 <div align="center">
 
 **Building from Bengaluru. Shipping for the world.**
