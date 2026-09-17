@@ -19,7 +19,7 @@
 
 ```yaml
 📍 Location    :  Bengaluru, India
-🎓 Degree      :  B.Tech CS (AI & ML) · DSU · 9.45 CGPA · Class of 2027
+🎓 Degree      :  B.Tech CS (AI & ML) · DSU · 9.59 CGPA · Class of 2027
 🔭 Building    :  Agentic AI systems, security platforms, distributed infra
 🧠 Deep in     :  Reinforcement Learning & multi-agent architectures
 💡 Believe in  :  Ship fast. Scale smart. Iterate constantly.
