@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=660&lines=AI+%26+ML+Engineer;Full-Stack+Developer;Multi-Agent+System+Builder;Security+%26+Distributed+Systems;Building+things+that+think.)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jayeshrlportfolio.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://jayeshrlportfolio.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-jayeshrl.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://jayeshrl.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh-rl-748059291)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayeshrl2005@gmail.com)&nbsp;
 [![Views](https://komarev.com/ghpvc/?username=Aspect022&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Aspect022)
